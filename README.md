@@ -1,6 +1,8 @@
 # QuizWiz
 A webapp for trivia quiz
 
+Link - https://quizwiz-dda60.firebaseapp.com/
+
 Teammates:
 	1. Rishvanjay Maheshwari (maheshwr@purdue.edu)
 	2. Shivan Desai (desai58@purdue.edu)
